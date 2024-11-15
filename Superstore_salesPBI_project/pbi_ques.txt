@@ -1,0 +1,13 @@
+1.Create a visual to represent sales by payment mode.
+
+2.Create a chart to represent sales of the product category vise.
+
+3.What is the monthly profit for each year?
+
+4.Visually represent the data of total sales and profit using map.
+
+5.Create a visual to show the profit data with top-10 states.
+
+6.Using DAX Queries show the average deilvery days.
+
+7. Create a visual using line chart show sales forecast for 10 days.
